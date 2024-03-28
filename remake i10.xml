@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="11/12/23||18:45:38" using="Simscape Multibody Link Version 5.1" from="SolidWorks 29.3.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="remake i10" uid="remake i10" version="446">
+<AssemblyFile name="remake i10.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="i10_07-1" uid="i10_07-1" entityUid="i10_07*:*Default">
+<Transform>
+<Rotation>0.99999554575556404 -0.0029847058535255135 0 0.0029847058535255135 0.99999554575556404 0 0 0 1</Rotation>
+<Translation>-0.01405375637836632 -0.40382916840531352 0.24080714447698987</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_01-1" uid="i10_01-1" grounded="true" entityUid="i10_01*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.014053756378362522 -0.40382916840531757 0.24130714447698987</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_23-1" uid="i10_23-1" entityUid="i10_23*:*Default">
+<Transform>
+<Rotation>0.99936621637368528 -0.035597265700184018 -1.5672110756643659e-05 0.035596861517630654 0.99935678248246729 -0.0043456594879490674 0.00017035562561551685 0.0043423474021637726 0.999990557454419</Rotation>
+<Translation>-0.013808407328462028 -0.39121135022947723 0.24029098984843417</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_30-1" uid="i10_30-1" entityUid="i10_30*:*Default">
+<Transform>
+<Rotation>0.99997090186986959 -0.0076285757481002765 -1.5672110756760712e-05 0.0076284356131246572 0.99996146036420375 -0.004345659487949181 4.8822699338590978e-05 0.0043454134836960687 0.999990557454419</Rotation>
+<Translation>-0.0137639549348035 -0.3932648647347059 0.23978206186472828</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_34-1" uid="i10_34-1" entityUid="i10_34*:*Default">
+<Transform>
+<Rotation>0.99999999880817203 -4.5459566572489143e-12 -4.8822699338543063e-05 -4.5459583981232746e-12 0.99999999999998268 -1.8622311857498748e-07 4.8822699338543063e-05 1.8622311857498753e-07 0.99999999880815471</Rotation>
+<Translation>-0.013512362530905177 -0.4007935256594744 0.2395690472820278</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_32-1" uid="i10_32-1" entityUid="i10_32*:*Default">
+<Transform>
+<Rotation>0.9999709018698697 -0.007628435613124881 -4.8822699338557592e-05 0.007628435613124881 0.99997090306171499 -1.8622311855281496e-07 4.8822699338557585e-05 -1.8622311855397653e-07 0.99999999880815471</Rotation>
+<Translation>-0.013518229517480364 -0.39925791941641697 0.23976904728178958</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_25-1" uid="i10_25-1" entityUid="i10_25*:*Default">
+<Transform>
+<Rotation>0.9999709018698697 -0.0076284356131246589 -4.882269933858843e-05 0.0076284356131246589 0.99997090306171499 -1.8622311855405144e-07 4.882269933858843e-05 -1.8622311855298614e-07 0.99999999880815471</Rotation>
+<Translation>-0.013518229517480867 -0.39925791941641708 0.2397690472817896</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_14-1" uid="i10_14-1" entityUid="i10_14*:*Default">
+<Transform>
+<Rotation>0.99999979649612825 -0.00063713876742661367 -3.2586703390916499e-05 0.0006374565698980142 0.99994019535789991 0.010917845791472241 2.5628571744250525e-05 -0.010917864342256518 0.99994039801449186</Rotation>
+<Translation>-0.013548619764745544 -0.40573123980574199 0.24082006076771004</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_21-1" uid="i10_21-1" entityUid="i10_21*:*Default">
+<Transform>
+<Rotation>0.99999938569322322 -0.001108317446039948 -1.5672110756752966e-05 0.0011082388753591776 0.99998994347453829 -0.0043456594879490978 2.048832337481513e-05 0.0043456394499386273 0.99999055745441923</Rotation>
+<Translation>-0.013761877037718931 -0.39374844672665948 0.24077996983741368</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_38-1" uid="i10_38-1" entityUid="i10_38*:*Default">
+<Transform>
+<Rotation>0.99999999880817203 4.5458139233013e-12 -4.8822699338216935e-05 -4.5458139233008364e-12 1 1.1097895370825546e-16 4.8822699338216935e-05 1.1095994979551407e-16 0.99999999880817203</Rotation>
+<Translation>-0.013312362531144432 -0.40079380164213713 0.23956905704654194</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_13-1" uid="i10_13-1" entityUid="i10_13*:*Default">
+<Transform>
+<Rotation>0.99999554575556382 -0.0029845279591304806 -3.2586703390838612e-05 0.0029847058535255088 0.99993594403553743 0.010917845791472354 0 -0.01091789442244284 0.99994039801449175</Rotation>
+<Translation>-0.013549457160636864 -0.40526883169686573 0.2408150119390762</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_20-1" uid="i10_20-1" entityUid="i10_20*:*Default">
+<Transform>
+<Rotation>0.99999938569322322 -0.0011079491337662134 -3.2586703389365128e-05 0.0011082388753587318 0.99993978441197584 0.010917845791472139 2.0488323374604117e-05 -0.010917875198416995 0.99994039801449186</Rotation>
+<Translation>-0.013548700692911281 -0.40563849569155691 0.24081904813877961</Translation>
+</Transform>
+</Instance>
+<Instance name="i10_37-1" uid="i10_37-1" entityUid="i10_37*:*Default">
+<Transform>
+<Rotation>0.98955067095227933 0.14418553059942668 -4.8822699338081573e-05 -0.14418553077127097 0.98955067213165337 0 4.831253494528852e-05 7.0395268176906938e-06 0.99999999880817214</Rotation>
+<Translation>-0.016136818851061566 -0.43976719201050218 0.23956891914896056</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_01-1</Uid>
+</InstancePath>
+<Position>0 0 0.02200000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_07-1</Uid>
+</InstancePath>
+<Position>0 0 0.02200000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_01-1</Uid>
+</InstancePath>
+<Position>0 0 0.02200000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_07-1</Uid>
+</InstancePath>
+<Position>0 0 0.02250000000000002</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_07-1</Uid>
+</InstancePath>
+<Position>-0.08700000000000005 -1.0547118733938987e-15 0.13200000000000001</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_13-1</Uid>
+</InstancePath>
+<Position>-0.086999999999999994 -1.0547118733938987e-15 0.13200000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_07-1</Uid>
+</InstancePath>
+<Position>-0.08700000000000005 -1.0547118733938987e-15 0.13200000000000001</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_13-1</Uid>
+</InstancePath>
+<Position>-0.087500000000000008 -1.1102230246251565e-15 0.13200000000000001</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_13-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000001 0 0.21900000000000003</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_14-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000001 0 0.22800000000000004</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_13-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000001 0 0.21900000000000003</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_14-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000004 0 0.21900000000000003</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_14-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000004 1.1102230246251565e-16 0.71000000000000008</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_20-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000004 1.1102230246251565e-16 0.71699999999999997</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_14-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000004 0 0.71699999999999997</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_20-1</Uid>
+</InstancePath>
+<Position>-0.19700000000000004 1.1102230246251565e-16 0.71699999999999997</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_20-1</Uid>
+</InstancePath>
+<Position>0.039891631841089507 2.2204460492503131e-16 0.77900000000000003</Position>
+<Axis>-1 -4.9555252297529015e-16 -1.5680951545929411e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_21-1</Uid>
+</InstancePath>
+<Position>-0.11850028714469703 1.1102230246251565e-16 0.77900000000000036</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_20-1</Uid>
+</InstancePath>
+<Position>-0.1187002871446972 -2.8948491604063875e-05 0.77895990846366414</Position>
+<Axis>1 3.3138477936363873e-16 1.568061273275051e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_21-1</Uid>
+</InstancePath>
+<Position>-0.11850028714469703 1.1102230246251565e-16 0.77900000000000036</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_21-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697099 1.1102230246251565e-16 0.83699999999999997</Position>
+<Axis>0 1.1535911115245767e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_23-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697113 1.6653345369377348e-16 0.84319999999999984</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_21-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697099 1.1102230246251565e-16 0.83699999999999997</Position>
+<Axis>0 1.1535911115245767e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_23-1</Uid>
+</InstancePath>
+<Position>-0.098500287144697107 1.6653345369377348e-16 0.8374999999999998</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_23-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697113 2.2204460492503131e-16 1.3263</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_30-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697196 2.7755575615628914e-16 1.3324999999999996</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_23-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697113 1.6653345369377348e-16 1.3320000000000003</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_30-1</Uid>
+</InstancePath>
+<Position>-0.073500287144697196 2.7755575615628914e-16 1.3324999999999996</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_30-1</Uid>
+</InstancePath>
+<Position>-0.143800287144697 2.7755575615628914e-16 1.3794999999999997</Position>
+<Axis>1.0000000000000002 1.9065075810314916e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_25-1</Uid>
+</InstancePath>
+<Position>-0.14400028714469701 2.2204460492503131e-16 1.3795000000000002</Position>
+<Axis>1.0000000000000002 1.8934631991975202e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_30-1</Uid>
+</InstancePath>
+<Position>-0.14380028714469703 -0.031488451426586739 1.3803528931676761</Position>
+<Axis>-1.0000000000000002 -1.9065075810314916e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_25-1</Uid>
+</InstancePath>
+<Position>-0.14400028714469701 2.2204460492503131e-16 1.3795000000000002</Position>
+<Axis>1.0000000000000002 1.8934631991975202e-16 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_25-1</Uid>
+</InstancePath>
+<Position>-0.15930028714469696 2.2204460492503131e-16 1.3794999999999999</Position>
+<Axis>1.0000000000000002 1.8934631991975202e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_32-1</Uid>
+</InstancePath>
+<Position>-0.15930028714469749 2.2204460492503131e-16 1.3794999999999999</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_25-1</Uid>
+</InstancePath>
+<Position>-0.15930028714469696 2.2204460492503131e-16 1.3794999999999999</Position>
+<Axis>-1.0000000000000002 -1.8934631991975202e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_32-1</Uid>
+</InstancePath>
+<Position>-0.15930028714469749 2.2204460492503131e-16 1.3794999999999999</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_32-1</Uid>
+</InstancePath>
+<Position>-0.20130028714469747 1.6653345369377348e-16 1.3885381182188141</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_34-1</Uid>
+</InstancePath>
+<Position>-0.2013002871446975 1.6653345369377348e-16 1.4400000000000002</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_32-1</Uid>
+</InstancePath>
+<Position>-0.2013002871446975 2.2204460492503131e-16 1.4398</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_34-1</Uid>
+</InstancePath>
+<Position>-0.2013002871446975 1.6653345369377348e-16 1.4400000000000002</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_34-1</Uid>
+</InstancePath>
+<Position>-0.2103384053635115 2.2204460492503131e-16 1.482</Position>
+<Axis>1 -1.1709678909624708e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_38-1</Uid>
+</InstancePath>
+<Position>-0.25260028714469751 2.2204460492503131e-16 1.482</Position>
+<Axis>-1 2.6184972544469027e-16 -3.0224168437106846e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_34-1</Uid>
+</InstancePath>
+<Position>-0.26160028714469741 2.2204460492503131e-16 1.4820000000000002</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_38-1</Uid>
+</InstancePath>
+<Position>-0.261800287144697 2.2204460492503131e-16 1.4819999999999998</Position>
+<Axis>1 -2.6184972544469027e-16 3.0224168437106846e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_37-1</Uid>
+</InstancePath>
+<Position>-0.2703002871446975 2.2204460492503131e-16 1.5156000000000007</Position>
+<Axis>3.0224168437106846e-16 9.6066241712846473e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>i10_38-1</Uid>
+</InstancePath>
+<Position>-0.2703002871446975 2.7755575615628914e-16 1.5156000000000001</Position>
+<Axis>-3.0224168437106846e-16 -9.6065617372966614e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_37-1</Uid>
+</InstancePath>
+<Position>-0.2703002871446975 2.2204460492503131e-16 1.5203000000000002</Position>
+<Axis>3.0224168437106846e-16 9.6066241712846473e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>i10_38-1</Uid>
+</InstancePath>
+<Position>-0.27030028714469745 2.7755575615628914e-16 1.518</Position>
+<Axis>3.0224168437106846e-16 9.6065617372966614e-16 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="i10_01" uid="i10_01*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_01.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.3791231767295622</Mass>
+<CenterOfMass>0.0028333769021153931 2.1983797476995461e-07 -0.0085730608871220342</CenterOfMass>
+<Inertia>0.0033588686066618207 0.0037478646399113102 0.0064494105521708785 6.7357687226535659e-09 -3.5422114449448434e-05 8.2499534307947458e-10</Inertia>
+</MassProperties>
+<GeometryFile name="i10_01_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_07" uid="i10_07*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_07.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.1787845995041781</Mass>
+<CenterOfMass>-0.0075910045425877665 4.0438718924216651e-07 0.12735799460148825</CenterOfMass>
+<Inertia>0.020350934296007671 0.021452789862917109 0.013753972806405937 -1.0679536619802044e-07 0.00021724580993012492 -7.1297577265403303e-08</Inertia>
+</MassProperties>
+<GeometryFile name="i10_07_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_13" uid="i10_13*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_13.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.1787845996095969</Mass>
+<CenterOfMass>-0.19235799460498407 -4.0433051805108926e-07 0.13959100448856607</CenterOfMass>
+<Inertia>0.013753972807521843 0.021452789872464829 0.020350934291143121 -7.1266955098395021e-08 0.00021724579081777026 -1.0677541400217341e-07</Inertia>
+</MassProperties>
+<GeometryFile name="i10_13_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_14" uid="i10_14*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_14.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>5.4729827231598955</Mass>
+<CenterOfMass>-0.19700068575092716 1.0905224286917879e-12 0.45858877049714325</CenterOfMass>
+<Inertia>0.12451754487396947 0.12451660974633909 0.0097850298265479991 6.0206429283866634e-12 2.765057065273817e-08 4.9266911387993805e-13</Inertia>
+</MassProperties>
+<GeometryFile name="i10_14_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_20" uid="i10_20*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_20.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.8524590143822415</Mass>
+<CenterOfMass>-0.19865462299821063 -5.4596382051945713e-07 0.77544265187682881</CenterOfMass>
+<Inertia>0.0035131205790612445 0.0054991053352017117 0.0053429145300458725 6.9306339800145084e-09 1.2752584236221468e-05 5.7280147686050072e-08</Inertia>
+</MassProperties>
+<GeometryFile name="i10_20_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_21" uid="i10_21*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_21.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.64331964683377607</Mass>
+<CenterOfMass>-0.084638718872239241 -7.3176330332133514e-06 0.78900309518219069</CenterOfMass>
+<Inertia>0.00094642492785219098 0.00084254856359065411 0.00071855438711363319 -1.0335916282496107e-07 -0.00012091252151265856 -1.2872313355026332e-07</Inertia>
+</MassProperties>
+<GeometryFile name="i10_21_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.9137254901960784" g="0.51372549019607838" b="0" a="1"/>
+<Diffuse r="0.9137254901960784" g="0.51372549019607838" b="0" a="1"/>
+<Specular r="0.4568627450980392" g="0.25686274509803919" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_23" uid="i10_23*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_23.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.4605088928349335</Mass>
+<CenterOfMass>-0.073498300471592073 -6.6395630468125982e-12 1.0850736481903727</CenterOfMass>
+<Inertia>0.052426947424570103 0.052426589744111969 0.0019522351108633785 -3.1428265292847122e-12 -4.6465240457196292e-07 1.5559360508215958e-09</Inertia>
+</MassProperties>
+<GeometryFile name="i10_23_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_25" uid="i10_25*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_25.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.078068944873391444</Mass>
+<CenterOfMass>-0.15048989782942848 1.1489952352364693e-06 1.37954242706174</CenterOfMass>
+<Inertia>6.6188991929133636e-05 3.4727306920807503e-05 3.4872375908876388e-05 3.956656949529221e-09 -2.1894309408583078e-08 -5.9306056587475337e-10</Inertia>
+</MassProperties>
+<GeometryFile name="i10_25_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.9137254901960784" g="0.51372549019607838" b="0" a="1"/>
+<Diffuse r="0.9137254901960784" g="0.51372549019607838" b="0" a="1"/>
+<Specular r="0.4568627450980392" g="0.25686274509803919" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_30" uid="i10_30*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_30.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.86490777219558257</Mass>
+<CenterOfMass>-0.076907525969532917 -2.9720850266114561e-06 1.3766999735108285</CenterOfMass>
+<Inertia>0.00091428171697421521 0.0016637000372679415 0.0016211673887830591 4.9116338082132983e-09 1.717461268118131e-05 -5.9780199503565736e-08</Inertia>
+</MassProperties>
+<GeometryFile name="i10_30_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_32" uid="i10_32*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_32.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.5906453857797771</Mass>
+<CenterOfMass>-0.19871523084574463 -4.63001025341783e-07 1.379312804631279</CenterOfMass>
+<Inertia>0.00087249398626836993 0.00090244275480844756 0.00047795851804830906 9.961454594389037e-09 4.7907163045281439e-07 -1.1114292465761643e-10</Inertia>
+</MassProperties>
+<GeometryFile name="i10_32_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_34" uid="i10_34*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_34.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.59064538574026093</Mass>
+<CenterOfMass>-0.20111309177873127 4.6300525898593615e-07 1.4794149437012531</CenterOfMass>
+<Inertia>0.00047795851802289813 0.00090244275473355174 0.00087249398617774484 -1.1116200365232193e-10 4.7907163387860918e-07 9.9613430001933427e-09</Inertia>
+</MassProperties>
+<GeometryFile name="i10_34_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_37" uid="i10_37*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_37.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0012104728205587023</Mass>
+<CenterOfMass>-0.27030028714476056 -1.7390758775217527e-12 1.5226251342229196</CenterOfMass>
+<Inertia>3.3680555312057376e-08 3.3680555301876861e-08 3.4258863033986808e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="i10_37_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.32549019607843138" g="0.30980392156862746" b="0.29411764705882354" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="i10_38" uid="i10_38*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="i10_38.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.13389949337474799</Mass>
+<CenterOfMass>-0.27663314288738483 -3.4941180829777985e-10 1.4818211835985458</CenterOfMass>
+<Inertia>9.4580771426003161e-05 5.8337116663938263e-05 5.9205682174852299e-05 -1.3721409405348057e-12 3.3008737772746735e-08 8.2142514798850354e-13</Inertia>
+</MassProperties>
+<GeometryFile name="i10_38_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.12549019607843137" g="0.12549019607843137" b="0.12549019607843137" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

@@ -1,0 +1,49 @@
+[System]
+Name='bai1_hw5tm'
+Type='sugeno'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='prod'
+OrMethod='max'
+ImpMethod='prod'
+AggMethod='sum'
+DefuzzMethod='wtaver'
+
+[Input1]
+Name='theta'
+Range=[-1 1]
+NumMFs=3
+MF1='NE':'trapmf',[-1.9 -1.1 -0.9105 -0.1945]
+MF2='ZE':'trimf',[-0.5 0 0.5]
+MF3='PO':'trapmf',[0.1604 0.9067 1.107 1.963]
+
+[Input2]
+Name='vitri'
+Range=[-1 1]
+NumMFs=3
+MF1='NE':'trapmf',[-1.9 -1.1 -1 0]
+MF2='ZE':'trimf',[-1 0 1]
+MF3='PB':'trapmf',[-0.00529 1 1.09 1.89]
+
+[Output1]
+Name='F'
+Range=[0 1]
+NumMFs=5
+MF1='NB':'constant',[-1]
+MF2='NS':'constant',[-0.3]
+MF3='ZE':'constant',[0]
+MF4='PS':'constant',[0.3]
+MF5='PB':'constant',[1]
+
+[Rules]
+1 1, 5 (1) : 1
+1 2, 4 (1) : 1
+1 3, 4 (1) : 1
+2 1, 4 (1) : 1
+2 2, 3 (1) : 1
+2 3, 2 (1) : 1
+3 1, 2 (1) : 1
+3 2, 2 (1) : 1
+3 3, 1 (1) : 1
